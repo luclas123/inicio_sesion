@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form{
+  
+  margin-block: 10px;
+  border: 10px;
+
+}
+.form .input{
+  font-size: large;
+}
